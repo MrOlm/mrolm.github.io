@@ -16,8 +16,8 @@
 title: Matthew R. Olm
 email: mattolm@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-    Hi, I'm Matt Olm. I'm a PhD Candidate in the Department of Plant and Microbial Biology at UC-Berkeley.
-    I study the human microbiome and other environments using metagenomics.
+    Hi, I'm Matt Olm. I'm a PhD Candidate in Jill Banfield's lab at UC-Berkeley.
+    I use metagenomics to study the human microbiome and other environments.
 url: "https://mrolm.github.io/" # the base hostname & protocol for your site
 twitter_username: mattagenolmics
 github_username:  mrolm
