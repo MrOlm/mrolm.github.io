@@ -6,10 +6,6 @@ layout: home
 title: About
 ---
 
-<div class='pull-right' markdown="1">
-
-![Headshot](/images/IMG_3142.jpg)
-
-</div>
+![Headshot](/images/IMG_3142.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 I am a PhD Candidate in Jill Banfield's lab at University of California, Berkeley. I use metagenomics to study the human microbiome, the hospital microbiome, and how the two interact. Along the course of my research I have developed several open-source programs and bioinformatics tools for analysis of genome-resolved metagenomic data.
