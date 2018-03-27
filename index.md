@@ -6,4 +6,4 @@ layout: home
 title: About
 ---
 
-Hi, I'm Matt Olm. I'm a PhD Candidate in Jill Banfield's lab at UC-Berkeley. I use metagenomics to study the human microbiome and other environments.
+I am a PhD Candidate in Jill Banfield's lab at University of California, Berkeley. I use metagenomics to study the human microbiome, the hospital microbiome, and how the two interact. Along the course of my research I have developed several open-source programs and bioinformatics tools for analysis of genome-resolved metagenomic data.
