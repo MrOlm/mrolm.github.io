@@ -8,15 +8,17 @@ permalink: /publications/
 
 ### 2018
 
-Rahman, Sumayah F, **Matthew R Olm**, Michael J Morowitz, and Jillian F Banfield. 2018. **“Machine Learning Leveraging Genomes from Metagenomes Identifies Influential Antibiotic Resistance Genes in the Infant Gut Microbiome.”** MSystems 3 (1): e00123–17.
+Bouma-Gregson, Keith, **Matthew R Olm**, Alexander J Probst, Karthik Anantharaman, Mary E Power, and Jillian F Banfield. **“Microbial Diversity and Metabolic Potential in Cyanotoxin Producing Cyanobacterial Mats throughout a River Network.”** *BioRxiv*, January 1, 2018. https://doi.org/10.1101/294421.
+
+Rahman, Sumayah F, **Matthew R Olm**, Michael J Morowitz, and Jillian F Banfield. “Machine Learning Leveraging Genomes from Metagenomes Identifies Influential Antibiotic Resistance Genes in the Infant Gut Microbiome.” *MSystems* 3, no. 1 (2018): e00123-17.
 
 Brown, Christopher T, Weili Xiong, **Matthew R Olm**, Brian C Thomas, Robyn Baker, Brian Firek, Michael J Morowitz, Robert L Hettich, and Jillian F Banfield. 2018. **“Hospitalized Premature Infants Are Colonized by Related Bacterial Strains with Distinct Proteomic Profiles.”** *BioRxiv*, 217950.
 
 ### 2017
 
-**Olm, Matthew R**, Christopher T Brown, Brandon Brooks, and Jillian F Banfield. 2017. **“DRep: A Tool for Fast and Accurate Genomic Comparisons That Enables Improved Genome Recovery from Metagenomes through de-Replication.”** The ISME Journal 11 (12): 2864.
+**Olm, Matthew R**, Christopher T Brown, Brandon Brooks, and Jillian F Banfield. 2017. **“DRep: A Tool for Fast and Accurate Genomic Comparisons That Enables Improved Genome Recovery from Metagenomes through de-Replication.”** *The ISME Journal* 11 (12): 2864.
 
-**Olm, Matthew R**, Christopher T Brown, Brandon Brooks, Brian Firek, Robyn Baker, David Burstein, Karina Soenjoyo, Brian C Thomas, Michael Morowitz, and Jillian F Banfield. 2017. **“Identical Bacterial Populations Colonize Premature Infant Gut, Skin, and Oral Microbiomes and Exhibit Different in Situ Growth Rates.”** Genome Research 27 (4): 601–612.
+**Olm, Matthew R**, Christopher T Brown, Brandon Brooks, Brian Firek, Robyn Baker, David Burstein, Karina Soenjoyo, Brian C Thomas, Michael Morowitz, and Jillian F Banfield. 2017. **“Identical Bacterial Populations Colonize Premature Infant Gut, Skin, and Oral Microbiomes and Exhibit Different in Situ Growth Rates.”** *Genome Research* 27 (4): 601–612.
 
 **Olm, Matthew R**, Cristina N Butterfield, Alex Copeland, T Christian Boles, Brian C Thomas, and Jillian F Banfield. 2017. **“The Source and Evolutionary History of a Microbial Contaminant Identified Through Soil Metagenomic Analysis.”** MBio 8 (1): e01969–16.
 
