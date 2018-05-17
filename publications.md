@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### 2018
 
-**Olm, Matthew R\* **, Patrick T West\*, Brandon Brooks, Brian A Firek, Robyn Baker, Michael J Morowitz, and Jillian F Banfield. **“Strain-Level Overlap between Infant and Hospital Fungal Microbiomes Revealed through de Novo Assembly of Eukaryotic Genomes from Metagenomes.”** *BioRxiv*, January 1, 2018. https://doi.org/10.1101/324566.
+__Olm, Matthew R*__, __Patrick T West*__, Brandon Brooks, Brian A Firek, Robyn Baker, Michael J Morowitz, and Jillian F Banfield. **“Strain-Level Overlap between Infant and Hospital Fungal Microbiomes Revealed through de Novo Assembly of Eukaryotic Genomes from Metagenomes.”** *BioRxiv*, January 1, 2018. https://doi.org/10.1101/324566.
 
 Brooks, Brandon, **Matthew R Olm**, Brian A. Firek, Robyn Baker, David Geller-McGrath, Sophia R. Reimer, Karina R. Soenjoyo, et al. **“The Developing Premature Infant Gut Microbiome Is a Major Factor Shaping the Microbiome of Neonatal Intensive Care Unit Rooms.”** *BioRxiv*, January 1, 2018. https://doi.org/10.1101/315689.
 
