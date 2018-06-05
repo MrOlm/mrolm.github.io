@@ -18,8 +18,8 @@ permalink: /CV/
 ### Honors and awards
 
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Science Foundation Graduate Research Fellowship  
-2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mBio Editors' pick ([volume 8, issue 1](http://mbio.asm.org/site/misc/mBioCollection2017.xhtml))  
-2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Genome Research Cover Image ([April](https://genome.cshlp.org/content/27/4.cover-expansion))
+2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*mBio* Editors' pick ([volume 8, issue 1](http://mbio.asm.org/site/misc/mBioCollection2017.xhtml))  
+2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Genome Research* Cover Image ([April](https://genome.cshlp.org/content/27/4.cover-expansion))
 
 ### Software
 
