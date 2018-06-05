@@ -29,23 +29,22 @@ permalink: /CV/
  ([Code](https://github.com/christophertbrown/iRep) / [Publication](http://www.nature.com/nbt/journal/v34/n12/abs/nbt.3704.html))  
  *Other programs and scripts* - ([GitHub Account](https://github.com/MrOlm))
 
-### Scientific presentations
+### Select scientific presentations
 
- * 2016 (oral presentation) **Lake Arrowhead Microbial Genomics Conference**; Lake Arrowhead, CA *Identical Bacterial Populations Colonize Premature Infant Gut, Skin, and Oral Microbiomes and Exhibit Different in situ Growth Rates*
- * 2017 (oral presentation) **MMG Seminar Series at the University of Pittsburgh**; Pittsburgh, PA *Using genome-resolved metagenomics to study the developing infant microbiome*
- * 2017 (poster) **Applied Bioinformatics & Public Health Microbiology**; Cambridge, UK *Genome-resolved metagenomics of infant fecal samples yields thousands of high-quality microbial genomes and reveals patterns of sub-species diversity*
-
-### Public engagement
+**Academic**
+ * 2016 (oral presentation) **Lake Arrowhead Microbial Genomics Conference**; Lake Arrowhead, CA. *Identical Bacterial Populations Colonize Premature Infant Gut, Skin, and Oral Microbiomes and Exhibit Different in situ Growth Rates*
+ * 2017 (oral presentation) **MMG Seminar Series at the University of Pittsburgh**; Pittsburgh, PA. *Using genome-resolved metagenomics to study the developing infant microbiome*
+ * 2017 (poster) **Applied Bioinformatics & Public Health Microbiology**; Cambridge, UK. *Genome-resolved metagenomics of infant fecal samples yields thousands of high-quality microbial genomes and reveals patterns of sub-species diversity*
 
 **Blog posts**
 * [Are these microbes the “same”?](https://www.microbe.net/2017/02/15/are-these-microbes-the-same/) _microBE.net_, February 15, 2017  
 * [Why genome completeness and contamination estimates are more complicated than you think](https://www.microbe.net/2017/12/13/why-genome-completeness-and-contamination-estimates-are-more-complicated-than-you-think/) _microBE.net_, December 13, 2017
 
-**California Academy of Sciences NightLife Visiting Scientist [(description)](https://www.calacademy.org/nightlife)**
-* 2015, September - Fermentation
-* 2015, November - Food Biology (Bitelife)
-* 2016, June - Beer Biology
-* 2016, November - Food Biology (Bitelife)
+**Public engagement** (California Academy of Sciences NightLife; [description](https://www.calacademy.org/nightlife))
+* *Microbial Fermentation - When, How, and Why?* (September 3, 2015)
+* *Who's living in my food? Peeking in on helpful and harmful food microbes* (November 19, 2015)
+* *History of Beer Microbiology* (July 7, 2016)
+* *What's Living in my food? The Good/Bad stuff* (November 17, 2016)
 
 ### Select Publications
 
