@@ -75,5 +75,3 @@ Brooks, Brandon, **Matthew R. Olm**, Brian A. Firek, Robyn Baker, Brian C. Thoma
 **Olm, Matthew R.**, Cristina N. Butterfield, Alex Copeland, T. Christian Boles, Brian C. Thomas, and Jillian F. Banfield. “The Source and Evolutionary History of a Microbial Contaminant Identified Through Soil Metagenomic Analysis.” *MBio* 8, no. 1 (March 8, 2017): e01969-16. <https://doi.org/10.1128/mBio.01969-16>.
 
 Brown, Christopher T, **Matthew R Olm**, Brian C Thomas, and Jillian F Banfield. “Measurement of Bacterial Replication Rates in Microbial Communities.” *Nature Biotechnology* 34, no. 12 (November 7, 2016): 1256–63. <http://dx.doi.org/10.1038/nbt.3704>.
-
-Dedrick, Rebekah M, Travis N Mavrich, Wei L Ng, Juan C Cervantes Reyes, **Matthew R Olm**, Rachael E Rush, Deborah Jacobs-Sera, Daniel A Russell, and Graham F Hatfull. “Function, Expression, Specificity, Diversity and Incompatibility of Actinobacteriophage ParABS Systems.” *Molecular Microbiology* 101, no. 4 (May 5, 2016): 625–644. <https://doi.org/10.1111/mmi.13414>.
