@@ -8,6 +8,8 @@ permalink: /publications/
 
 ### 2018
 
+Sher, Yonatan, **Matthew R Olm**, Tali Raveh-Sadka, Christopher T Brown, Ruth Sher, Brian Firek, Robyn Baker, Michael Morowitz, Jill Banfield. "Shifts in microbial transcription patterns prior to onset of Necrotizing enterocolitis may indicate low oxygen levels in the gut." *BioRxiv* (November 9, 2018). <https://doi.org/10.1101/466417>
+
 Devoto, Audra E, Joanne M Santini, **Matthew R Olm**, Karthik Anantharaman, Patrick Munk, Jenny Tung, Elizabeth A Archie, et al. “Megaphage Infect Prevotella and Variants Are Widespread in Gut Microbiomes.” *BioRxiv* (June 27, 2018). <https://doi.org/10.1101/356790>.
 
 Brooks, Brandon, **Matthew R Olm**, Brian A. Firek, Robyn Baker, David Geller-McGrath, Sophia R. Reimer, Karina R. Soenjoyo, et al. “The Developing Premature Infant Gut Microbiome Is a Major Factor Shaping the Microbiome of Neonatal Intensive Care Unit Rooms.” *Microbiome* 6:112 (June 20, 2018). <https://doi.org/10.1186/s40168-018-0493-5>.
