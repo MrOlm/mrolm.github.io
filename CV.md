@@ -57,7 +57,7 @@ permalink: /CV/
 
 ### First and Second Author Publications
 
-See "publications" tab for full list of publications
+See [publications](/[publications]) tab for full list of publications
 
 
 
