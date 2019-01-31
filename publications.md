@@ -6,15 +6,19 @@ permalink: /publications/
 
 [Link to google scholar](https://scholar.google.com/citations?user=BoDUkpMAAAAJ&hl)
 
+### 2019
+
+Devoto, Audra E., Joanne M. Santini, **Matthew R. Olm**, Karthik Anantharaman, Patrick Munk, Jenny Tung, Elizabeth A. Archie, et al. “Megaphages Infect Prevotella and Variants Are Widespread in Gut Microbiomes.” *Nature Microbiology* (January 28, 2019). <https://doi.org/10.1038/s41564-018-0338-9>
+
+Matheus Carnevali, Paula B., Frederik Schulz, Cindy J. Castelle, Rose S. Kantor, Patrick M. Shih, Itai Sharon, Joanne M. Santini, **Matthew R. Olm**, et al. “Hydrogen-Based Metabolism as an Ancestral Trait in Lineages Sibling to the Cyanobacteria.” *Nature Communications* 10, no. 1 (January 28, 2019). <http://dx.doi.org/10.1038/s41467-018-08246-y>
+
+Rahman, Sumayah F., **Matthew R. Olm**, Michael J. Morowitz, and Jillian F. Banfield. 2019. “Functional Potential of Bacterial Strains in the Premature Infant Gut Microbiome Is Associated with Gestational Age.” *bioRxiv* (January 24, 2019). <https://doi.org/10.1101/530139>
+
 ### 2018
 
 Sher, Yonatan, **Matthew R Olm**, Tali Raveh-Sadka, Christopher T Brown, Ruth Sher, Brian Firek, Robyn Baker, Michael Morowitz, Jill Banfield. "Shifts in microbial transcription patterns prior to onset of Necrotizing enterocolitis may indicate low oxygen levels in the gut." *BioRxiv* (November 9, 2018). <https://doi.org/10.1101/466417>
 
-Devoto, Audra E, Joanne M Santini, **Matthew R Olm**, Karthik Anantharaman, Patrick Munk, Jenny Tung, Elizabeth A Archie, et al. “Megaphage Infect Prevotella and Variants Are Widespread in Gut Microbiomes.” *BioRxiv* (June 27, 2018). <https://doi.org/10.1101/356790>.
-
 Brooks, Brandon, **Matthew R Olm**, Brian A. Firek, Robyn Baker, David Geller-McGrath, Sophia R. Reimer, Karina R. Soenjoyo, et al. “The Developing Premature Infant Gut Microbiome Is a Major Factor Shaping the Microbiome of Neonatal Intensive Care Unit Rooms.” *Microbiome* 6:112 (June 20, 2018). <https://doi.org/10.1186/s40168-018-0493-5>.
-
-Matheus Carnevali, Paula B., Frederik Schulz, Cindy J. Castelle, Rose Kantor, Patrick Shih, Itai Sharon, Joanne Santini, **Matthew R. Olm**, et al. “Hydrogen-Based Metabolism - An Ancestral Trait in Lineages Sibling to the Cyanobacteria.” *BioRxiv* (May 25, 2018). <https://doi.org/10.1101/328856>.
 
 __Olm, Matthew R__\*, Patrick T West\*, Brandon Brooks, Brian A Firek, Robyn Baker, Michael J Morowitz, and Jillian F Banfield. “Strain-Level Overlap between Infant and Hospital Fungal Microbiomes Revealed through de Novo Assembly of Eukaryotic Genomes from Metagenomes.” *BioRxiv* (May 17, 2018). <https://doi.org/10.1101/324566>.
 

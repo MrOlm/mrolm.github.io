@@ -40,6 +40,9 @@ permalink: /CV/
  * 2017 (oral presentation) **MMG Seminar Series at the University of Pittsburgh**; Pittsburgh, PA. *Using genome-resolved metagenomics to study the developing infant microbiome*
  * 2017 (poster) **Applied Bioinformatics & Public Health Microbiology**; Cambridge, UK. *Genome-resolved metagenomics of infant fecal samples yields thousands of high-quality microbial genomes and reveals patterns of sub-species diversity*
  * 2016 (oral presentation) **Lake Arrowhead Microbial Genomics Conference**; Lake Arrowhead, CA. *Identical Bacterial Populations Colonize Premature Infant Gut, Skin, and Oral Microbiomes and Exhibit Different in situ Growth Rates*
+ * 2013 (poster) **American Society for Microbiology General Meeting**; Denver, CO. *Partitioning System of Bacteriophage RedRock Increases Plasmid Maintenance in Mycobacterium smegmatis.*
+ * 2012 (poster) **Science 2012**; Pittsburgh, PA. *Study of Putative Partitioning System in Mycobacteriophage RedRock*
+
 
 **Blog posts**
 * [Why genome completeness and contamination estimates are more complicated than you think](https://www.microbe.net/2017/12/13/why-genome-completeness-and-contamination-estimates-are-more-complicated-than-you-think/) _microBE.net_, December 13, 2017  
@@ -56,11 +59,13 @@ permalink: /CV/
 
 See "publications" tab for full list of publications
 
+
+
 Sher, Yonatan, **Matthew R Olm**, Tali Raveh-Sadka, Christopher T Brown, Ruth Sher, Brian Firek, Robyn Baker, Michael Morowitz, Jill Banfield. "Shifts in microbial transcription patterns prior to onset of Necrotizing enterocolitis may indicate low oxygen levels in the gut." *BioRxiv* (November 9, 2018). <https://doi.org/10.1101/466417>
 
 Brooks, Brandon, **Matthew R Olm**, Brian A. Firek, Robyn Baker, David Geller-McGrath, Sophia R. Reimer, Karina R. Soenjoyo, et al. “The Developing Premature Infant Gut Microbiome Is a Major Factor Shaping the Microbiome of Neonatal Intensive Care Unit Rooms.” *Microbiome* 6:112 (June 20, 2018). <https://doi.org/10.1186/s40168-018-0493-5>.
 
-__Olm, Matthew R__\*, Patrick T West\*, Brandon Brooks, Brian A Firek, Robyn Baker, Michael J Morowitz, and Jillian F Banfield. “Strain-Level Overlap between Infant and Hospital Fungal Microbiomes Revealed through de Novo Assembly of Eukaryotic Genomes from Metagenomes.” *BioRxiv* (May 17, 2018). <https://doi.org/10.1101/324566>.
+__Olm, Matthew R__\*, Patrick T West*, Brandon Brooks, Brian A Firek, Robyn Baker, Michael J Morowitz, and Jillian F Banfield. “Genome-resolved metagenomics of eukaryotic populations during early colonization of premature infants and in hospital room” *BioRxiv* (May 17, 2018). https://doi.org/10.1101/324566 (In press at *Microbiome*)
 
 Bouma-Gregson, Keith, **Matthew R Olm**, Alexander J Probst, Karthik Anantharaman, Mary E Power, and Jillian F Banfield. “Microbial Diversity and Metabolic Potential in Cyanotoxin Producing Cyanobacterial Mats throughout a River Network.” *BioRxiv* (April 3, 2018). <https://doi.org/10.1101/294421>.
 
