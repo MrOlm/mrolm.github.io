@@ -55,11 +55,13 @@ permalink: /CV/
 * *Who's living in my food? Peeking in on helpful and harmful food microbes* (November 19, 2015)
 * *Microbial Fermentation - When, How, and Why?* (September 3, 2015)
 
-### First or Second Author Publications
+### First and Second Author Publications
 
 See "publications" tab for full list of publications
 
 
+
+Rahman, Sumayah F., **Matthew R. Olm**, Michael J. Morowitz, and Jillian F. Banfield. 2019. “Functional Potential of Bacterial Strains in the Premature Infant Gut Microbiome Is Associated with Gestational Age.” *bioRxiv* (January 24, 2019). <https://doi.org/10.1101/530139>
 
 Sher, Yonatan, **Matthew R Olm**, Tali Raveh-Sadka, Christopher T Brown, Ruth Sher, Brian Firek, Robyn Baker, Michael Morowitz, Jill Banfield. "Shifts in microbial transcription patterns prior to onset of Necrotizing enterocolitis may indicate low oxygen levels in the gut." *BioRxiv* (November 9, 2018). <https://doi.org/10.1101/466417>
 
