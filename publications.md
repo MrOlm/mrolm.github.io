@@ -8,6 +8,8 @@ permalink: /publications/
 
 ### 2019
 
+__Olm, Matthew R__\*, Patrick T West\*, Brandon Brooks, Brian A. Firek, Robyn Baker, Michael J. Morowitz, and Jillian F. Banfield. “Genome-Resolved Metagenomics of Eukaryotic Populations during Early Colonization of Premature Infants and in Hospital Rooms.” *Microbiome* 7 (1): 26 (February 15, 2019). <https://doi.org/10.1186/s40168-019-0638-1>
+
 Devoto, Audra E., Joanne M. Santini, **Matthew R. Olm**, Karthik Anantharaman, Patrick Munk, Jenny Tung, Elizabeth A. Archie, et al. “Megaphages Infect Prevotella and Variants Are Widespread in Gut Microbiomes.” *Nature Microbiology* (January 28, 2019). <https://doi.org/10.1038/s41564-018-0338-9>
 
 Matheus Carnevali, Paula B., Frederik Schulz, Cindy J. Castelle, Rose S. Kantor, Patrick M. Shih, Itai Sharon, Joanne M. Santini, **Matthew R. Olm**, et al. “Hydrogen-Based Metabolism as an Ancestral Trait in Lineages Sibling to the Cyanobacteria.” *Nature Communications* 10, no. 1 (January 28, 2019). <http://dx.doi.org/10.1038/s41467-018-08246-y>
@@ -19,8 +21,6 @@ Rahman, Sumayah F., **Matthew R. Olm**, Michael J. Morowitz, and Jillian F. Banf
 Sher, Yonatan, **Matthew R Olm**, Tali Raveh-Sadka, Christopher T Brown, Ruth Sher, Brian Firek, Robyn Baker, Michael Morowitz, Jill Banfield. "Shifts in microbial transcription patterns prior to onset of Necrotizing enterocolitis may indicate low oxygen levels in the gut." *BioRxiv* (November 9, 2018). <https://doi.org/10.1101/466417>
 
 Brooks, Brandon, **Matthew R Olm**, Brian A. Firek, Robyn Baker, David Geller-McGrath, Sophia R. Reimer, Karina R. Soenjoyo, et al. “The Developing Premature Infant Gut Microbiome Is a Major Factor Shaping the Microbiome of Neonatal Intensive Care Unit Rooms.” *Microbiome* 6:112 (June 20, 2018). <https://doi.org/10.1186/s40168-018-0493-5>.
-
-__Olm, Matthew R__\*, Patrick T West\*, Brandon Brooks, Brian A Firek, Robyn Baker, Michael J Morowitz, and Jillian F Banfield. “Strain-Level Overlap between Infant and Hospital Fungal Microbiomes Revealed through de Novo Assembly of Eukaryotic Genomes from Metagenomes.” *BioRxiv* (May 17, 2018). <https://doi.org/10.1101/324566>.
 
 Brown, Christopher T., Weili Xiong, **Matthew R. Olm**, Brian C. Thomas, Robyn Baker, Brian Firek, Michael J. Morowitz, Robert L. Hettich, and Jillian F. Banfield. “Hospitalized Premature Infants Are Colonized by Related Bacterial Strains with Distinct Proteomic Profiles.” *MBio* 9, no. 2 (May 2, 2018). <https://doi.org/10.1128/mBio.00441-18>.
 

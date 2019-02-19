@@ -60,6 +60,7 @@ permalink: /CV/
 See [publications](/publications) for full list of publications
 
 
+__Olm, Matthew R__\*, Patrick T West\*, Brandon Brooks, Brian A. Firek, Robyn Baker, Michael J. Morowitz, and Jillian F. Banfield. “Genome-Resolved Metagenomics of Eukaryotic Populations during Early Colonization of Premature Infants and in Hospital Rooms.” *Microbiome* 7 (1): 26 (February 15, 2019). <https://doi.org/10.1186/s40168-019-0638-1>
 
 Rahman, Sumayah F., **Matthew R. Olm**, Michael J. Morowitz, and Jillian F. Banfield. 2019. “Functional Potential of Bacterial Strains in the Premature Infant Gut Microbiome Is Associated with Gestational Age.” *bioRxiv* (January 24, 2019). <https://doi.org/10.1101/530139>
 
@@ -67,9 +68,7 @@ Sher, Yonatan, **Matthew R Olm**, Tali Raveh-Sadka, Christopher T Brown, Ruth Sh
 
 Brooks, Brandon, **Matthew R Olm**, Brian A. Firek, Robyn Baker, David Geller-McGrath, Sophia R. Reimer, Karina R. Soenjoyo, et al. “The Developing Premature Infant Gut Microbiome Is a Major Factor Shaping the Microbiome of Neonatal Intensive Care Unit Rooms.” *Microbiome* 6:112 (June 20, 2018). <https://doi.org/10.1186/s40168-018-0493-5>.
 
-__Olm, Matthew R__\*, Patrick T West*, Brandon Brooks, Brian A Firek, Robyn Baker, Michael J Morowitz, and Jillian F Banfield. “Genome-resolved metagenomics of eukaryotic populations during early colonization of premature infants and in hospital room” *BioRxiv* (May 17, 2018). https://doi.org/10.1101/324566 (In press at *Microbiome*)
-
-Bouma-Gregson, Keith, **Matthew R Olm**, Alexander J Probst, Karthik Anantharaman, Mary E Power, and Jillian F Banfield. “Microbial Diversity and Metabolic Potential in Cyanotoxin Producing Cyanobacterial Mats throughout a River Network.” *BioRxiv* (April 3, 2018). <https://doi.org/10.1101/294421>.
+Bouma-Gregson, Keith, **Matthew R Olm**, Alexander J Probst, Karthik Anantharaman, Mary E Power, and Jillian F Banfield. “Microbial Diversity and Metabolic Potential in Cyanotoxin Producing Cyanobacterial Mats throughout a River Network.” *BioRxiv* (In press at *The ISME Journal*) (April 3, 2018). <https://doi.org/10.1101/294421>.
 
 Rahman, Sumayah F., **Matthew R. Olm**, Michael J. Morowitz, and Jillian F. Banfield. “Machine Learning Leveraging Genomes from Metagenomes Identifies Influential Antibiotic Resistance Genes in the Infant Gut Microbiome.” *MSystems* 3, no. 1 (February 27, 2018). <https://doi.org/10.1128/mSystems.00123-17>.
 
