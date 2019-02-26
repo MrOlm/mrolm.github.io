@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Publications
-permalink: /publications/
+layout: publications
+title: Publications2
+permalink: /publications2/
 ---
 
 [Link to google scholar](https://scholar.google.com/citations?user=BoDUkpMAAAAJ&hl)
