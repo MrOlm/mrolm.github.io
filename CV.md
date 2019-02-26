@@ -59,6 +59,7 @@ permalink: /CV/
 
 See [publications](/publications) for full list of publications
 
+__Olm, Matthew R__\*, Nicholas Bhattacharya, Alexander Crits-Christoph, Brian A. Firek, Robyn Baker, Yun S. Song, Michael J. Morowitz, and Jillian F. Banfield. “Necrotizing Enterocolitis Is Preceded by Increased Gut Bacterial Replication, Klebsiella, and Fimbriae-Encoding Bacteria That May Stimulate TLR4 Receptors.” *bioRxiv* (February 22, 2019). <https://doi.org/10.1101/558676>
 
 __Olm, Matthew R__\*, Patrick T West\*, Brandon Brooks, Brian A. Firek, Robyn Baker, Michael J. Morowitz, and Jillian F. Banfield. “Genome-Resolved Metagenomics of Eukaryotic Populations during Early Colonization of Premature Infants and in Hospital Rooms.” *Microbiome* 7 (1): 26 (February 15, 2019). <https://doi.org/10.1186/s40168-019-0638-1>
 
