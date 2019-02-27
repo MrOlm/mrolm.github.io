@@ -55,30 +55,40 @@ permalink: /CV/
 * *Who's living in my food? Peeking in on helpful and harmful food microbes* (November 19, 2015)
 * *Microbial Fermentation - When, How, and Why?* (September 3, 2015)
 
-### First and Second Author Publications
+### Publications
 
 See [publications](/publications) for full list of publications
 
-**Olm, Matthew R**, Nicholas Bhattacharya, Alexander Crits-Christoph, Brian A. Firek, Robyn Baker, Yun S. Song, Michael J. Morowitz, and Jillian F. Banfield. “Necrotizing Enterocolitis Is Preceded by Increased Gut Bacterial Replication, Klebsiella, and Fimbriae-Encoding Bacteria That May Stimulate TLR4 Receptors.” *bioRxiv* (February 22, 2019). <https://doi.org/10.1101/558676>
+1.	**Olm, M.R.**, Bhattacharya, N., Crits-Christoph, A., Firek, B.A., Baker, R., Song, Y.S., Morowitz, M.J., Banfield, J.F., 2019. Necrotizing enterocolitis is preceded by increased gut bacterial replication, Klebsiella, and fimbriae-encoding bacteria that may stimulate TLR4 receptors. **bioRxiv** <http://dx.doi.org/10.1101/558676>
 
-__Olm, Matthew R__\*, Patrick T West\*, Brandon Brooks, Brian A. Firek, Robyn Baker, Michael J. Morowitz, and Jillian F. Banfield. “Genome-Resolved Metagenomics of Eukaryotic Populations during Early Colonization of Premature Infants and in Hospital Rooms.” *Microbiome* 7 (1): 26 (February 15, 2019). <https://doi.org/10.1186/s40168-019-0638-1>
+2.	**Olm, M.R.**\*, West, P.T\*., Brooks, B., Firek, B.A., Baker, R., Morowitz, M.J., Banfield, J.F., 2019. Genome-resolved metagenomics of eukaryotic populations during early colonization of premature infants and in hospital rooms. **Microbiome** 7, 26. <https://doi.org/10.1186/s40168-019-0638-1>
 
-Rahman, Sumayah F., **Matthew R. Olm**, Michael J. Morowitz, and Jillian F. Banfield. 2019. “Functional Potential of Bacterial Strains in the Premature Infant Gut Microbiome Is Associated with Gestational Age.” *bioRxiv* (January 24, 2019). <https://doi.org/10.1101/530139>
+3.	**Olm, M.R.**, Brown, C.T., Brooks, B., Banfield, J.F., 2017. dRep: a tool for fast and accurate genomic comparisons that enables improved genome recovery from metagenomes through de-replication. **ISME J.** 11, 2864–2868. <http://dx.doi.org/10.1038/ismej.2017.126>
 
-Sher, Yonatan, **Matthew R Olm**, Tali Raveh-Sadka, Christopher T Brown, Ruth Sher, Brian Firek, Robyn Baker, Michael Morowitz, Jill Banfield. "Shifts in microbial transcription patterns prior to onset of Necrotizing enterocolitis may indicate low oxygen levels in the gut." *BioRxiv* (November 9, 2018). <https://doi.org/10.1101/466417>
+4.	**Olm, M.R.**, Brown, C.T., Brooks, B., Firek, B., Baker, R., Burstein, D., Soenjoyo, K., Thomas, B.C., Morowitz, M., Banfield, J.F., 2017. Identical bacterial populations colonize premature infant gut, skin, and oral microbiomes and exhibit different in situ growth rates. **Genome Research** 27, 601–612. <http://dx.doi.org/10.1101/gr.213256.116>
 
-Brooks, Brandon, **Matthew R Olm**, Brian A. Firek, Robyn Baker, David Geller-McGrath, Sophia R. Reimer, Karina R. Soenjoyo, et al. “The Developing Premature Infant Gut Microbiome Is a Major Factor Shaping the Microbiome of Neonatal Intensive Care Unit Rooms.” *Microbiome* 6:112 (June 20, 2018). <https://doi.org/10.1186/s40168-018-0493-5>.
+5.	**Olm, M.R.**, Butterfield, C.N., Copeland, A., Boles, T.C., Thomas, B.C., Banfield, J.F., 2017. The Source and Evolutionary History of a Microbial Contaminant Identified Through Soil Metagenomic Analysis. **MBio** 8. <http://dx.doi.org/10.1128/mBio.01969-16>
 
-Bouma-Gregson, Keith, **Matthew R Olm**, Alexander J Probst, Karthik Anantharaman, Mary E Power, and Jillian F Banfield. “Microbial Diversity and Metabolic Potential in Cyanotoxin Producing Cyanobacterial Mats throughout a River Network.” *BioRxiv* (In press at *The ISME Journal*) (April 3, 2018). <https://doi.org/10.1101/294421>.
+6.	Devoto, A.E., Santini, J.M., **Olm, M.R.**, Anantharaman, K., Munk, P., Tung, J., Archie, E.A., Turnbaugh, P.J., Seed, K.D., Blekhman, R., Aarestrup, F.M., Thomas, B.C., Banfield, J.F., 2019. Megaphages infect Prevotella and variants are widespread in gut microbiomes. **Nature Microbiology** <http://dx.doi.org/10.1038/s41564-018-0338-9>
 
-Rahman, Sumayah F., **Matthew R. Olm**, Michael J. Morowitz, and Jillian F. Banfield. “Machine Learning Leveraging Genomes from Metagenomes Identifies Influential Antibiotic Resistance Genes in the Infant Gut Microbiome.” *MSystems* 3, no. 1 (February 27, 2018). <https://doi.org/10.1128/mSystems.00123-17>.
+7.	Matheus Carnevali, P.B., Schulz, F., Castelle, C.J., Kantor, R.S., Shih, P.M., Sharon, I., Santini, J.M., **Olm, M.R.**, Amano, Y., Thomas, B.C., Anantharaman, K., Burstein, D., Becraft, E.D., Stepanauskas, R., Woyke, T., Banfield, J.F., 2019. Hydrogen-based metabolism as an ancestral trait in lineages sibling to the Cyanobacteria. **Nature Communications**. 10, 463. <http://dx.doi.org/10.1038/s41467-018-08246-y>
 
-Brooks, Brandon, **Matthew R. Olm**, Brian A. Firek, Robyn Baker, Brian C. Thomas, Michael J. Morowitz, and Jillian F. Banfield. “Strain-Resolved Analysis of Hospital Rooms and Infants Reveals Overlap between the Human and Room Microbiome.” *Nature Communications* 8, no. 1 (November 27, 2017): 1814. <https://doi.org/10.1038/s41467-017-02018-w>.
+8.	Rahman, S.F., **Olm, M.R.**, Morowitz, M.J., Banfield, J.F., 2019. Functional potential of bacterial strains in the premature infant gut microbiome is associated with gestational age. **bioRxiv**. <http://dx.doi.org/10.1101/530139>
 
-**Olm, Matthew R**, Christopher T Brown, Brandon Brooks, and Jillian F Banfield. “DRep: A Tool for Fast and Accurate Genomic Comparisons That Enables Improved Genome Recovery from Metagenomes through de-Replication.” *The ISME Journal* 11 (July 25, 2017): 2864. <http://dx.doi.org/10.1038/ismej.2017.126>.
+9.	Sher, Y., **Olm, M.R.**, Raveh-Sadka, T., Brown, C.T., Sher, R., Firek, B., Baker, R., Morowitz, M., Banfield, J., 2018. Shifts in microbial transcription patterns prior to onset of Necrotizing enterocolitis may indicate low oxygen levels in the gut. **bioRxiv**. <http://dx.doi.org/10.1101/466417>
 
-**Olm, Matthew R.**, Christopher T. Brown, Brandon Brooks, Brian Firek, Robyn Baker, David Burstein, Karina Soenjoyo, Brian C. Thomas, Michael Morowitz, and Jillian F. Banfield. “Identical Bacterial Populations Colonize Premature Infant Gut, Skin, and Oral Microbiomes and Exhibit Different in Situ Growth Rates.” *Genome Research* 27, no. 4 (April 1, 2017): 601–12. <https://doi.org/10.1101/gr.213256.116>.
+10.	Brooks, B., **Olm, M.R.**, Firek, B.A., Baker, R., Geller-McGrath, D., Reimer, S.R., Soenjoyo, K.R., Yip, J.S., Dahan, D., Thomas, B.C., Morowitz, M.J., Banfield, J.F., 2018. The developing premature infant gut microbiome is a major factor shaping the microbiome of neonatal intensive care unit rooms. **Microbiome** 6, 112. <http://dx.doi.org/10.1186/s40168-018-0493-5>
 
-**Olm, Matthew R.**, Cristina N. Butterfield, Alex Copeland, T. Christian Boles, Brian C. Thomas, and Jillian F. Banfield. “The Source and Evolutionary History of a Microbial Contaminant Identified Through Soil Metagenomic Analysis.” *MBio* 8, no. 1 (March 8, 2017): e01969-16. <https://doi.org/10.1128/mBio.01969-16>.
+11.	Brown, C.T., Xiong, W., **Olm, M.R.**, Thomas, B.C., Baker, R., Firek, B., Morowitz, M.J., Hettich, R.L., Banfield, J.F., 2018. Hospitalized Premature Infants Are Colonized by Related Bacterial Strains with Distinct Proteomic Profiles. **MBio** 9. <http://dx.doi.org/10.1128/mBio.00441-18>
 
-Brown, Christopher T, **Matthew R Olm**, Brian C Thomas, and Jillian F Banfield. “Measurement of Bacterial Replication Rates in Microbial Communities.” *Nature Biotechnology* 34, no. 12 (November 7, 2016): 1256–63. <http://dx.doi.org/10.1038/nbt.3704>.
+12.	Bouma-Gregson, K., **Olm, M.R.**, Probst, A.J., Anantharaman, K., Power, M.E., Banfield, J.F., 2018. Microbial diversity and metabolic potential in cyanotoxin producing cyanobacterial mats throughout a river network. **bioRxiv**. <http://dx.doi.org/10.1101/294421>
+
+13.	Rahman, S.F., **Olm, M.R.**, Morowitz, M.J., Banfield, J.F., 2018. Machine Learning Leveraging Genomes from Metagenomes Identifies Influential Antibiotic Resistance Genes in the Infant Gut Microbiome. **mSystems** 3. <http://dx.doi.org/10.1128/mSystems.00123-17>
+
+14.	Brooks, B., **Olm, M.R.**, Firek, B.A., Baker, R., Thomas, B.C., Morowitz, M.J., Banfield, J.F., 2017. Strain-resolved analysis of hospital rooms and infants reveals overlap between the human and room microbiome. **Nature Communications**. 8, 1814. <http://dx.doi.org/10.1038/s41467-017-02018-w>
+
+15.	Brown, C.T., **Olm, M.R.**, Thomas, B.C., Banfield, J.F., 2016. Measurement of bacterial replication rates in microbial communities. **Nature Biotechnology**. 34, 1256–1263. <http://dx.doi.org/10.1038/nbt.3704>
+
+16.	Dedrick, R.M., Mavrich, T.N., Ng, W.L., Cervantes Reyes, J.C., **Olm, M.R.**, Rush, R.E., Jacobs-Sera, D., Russell, D.A., Hatfull, G.F., 2016. Function, expression, specificity, diversity and incompatibility of actinobacteriophage parABS systems. **Molecular Microbiology**. 101, 625–644. <http://dx.doi.org/10.1111/mmi.13414>
+
+17.	Pope, W.H., Anders, K.R., Baird, M., Bowman, C.A., Boyle, M.M., Broussard, G.W., Chow, T., Clase, K.L., Cooper, S., Cornely, K.A., DeJong, R.J., Delesalle, V.A., Deng, L., Dunbar, D., Edgington, N.P., Ferreira, C.M., Weston Hafer, K., Hartzog, G.A., Hatherill, J.R., Hughes, L.E., Ipapo, K., Krukonis, G.P., Meier, C.G., Monti, D.L., **Olm, M.R.**, Page, S.T., Peebles, C.L., Rinehart, C.A., Rubin, M.R., Russell, D.A., Sanders, E.R., Schoer, M., Shaffer, C.D., Wherley, J., Vazquez, E., Yuan, H., Zhang, D., Cresawn, S.G., Jacobs-Sera, D., Hendrix, R.W., Hatfull, G.F., 2014. Cluster M mycobacteriophages Bongo, PegLeg, and Rey with unusually large repertoires of tRNA isotypes. **Journal of virology**. 88, 2461–2480. <http://dx.doi.org/10.1128/JVI.03363-13>
