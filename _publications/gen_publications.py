@@ -18,7 +18,7 @@ import pandas as pd
 import numpy as np
 
 def main(args):
-    fl = 'publications2.html'
+    fl = 'publications.html'
     bib = args.bibliography
     gen_html_bib(bib, fl)
 
@@ -31,11 +31,16 @@ def gen_html_bib(bib, fl):
     out.write(
 '''---
 layout: post
-title: Publications2
-permalink: /publications2/
+title: Publications
+permalink: /publications/
 ---
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+
+<a href="https://scholar.google.com/citations?user=BoDUkpMAAAAJ&hl"><big>Link to google scholar</big></a>
+</br>
+</br>
 '''
     )
 
@@ -98,7 +103,9 @@ def gen_html_citation(row):
     # Crazy new format
     pub = "<a href=\"{1}\"> {0}</a>".format(row['Title'].replace('{','').replace('}',''),
             row['URLs'].split(';')[0])
-    cit = "<i><big>{1}</i> - <b>{3}</b> ({2})</big><br/>{0}".format(
+
+    #cit = "<i><big>{1}</i> - <b>{3}</b> ({2})</big><br/>{0}".format(
+    cit = "<i>{1}</i> - <b>{3}</b> ({2})<br/>{0}".format(
             authors,
             pub,
             row['Publication year'],
