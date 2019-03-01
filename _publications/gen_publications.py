@@ -59,7 +59,9 @@ permalink: /publications/
         out.write('<span style="display:block">\n')
         out.write('<span style="display:inline" class=\'altmetric-embed\' data-badge-type=\'donut\' data-doi="{0}"></span>\n'.format(
             row['DOI']))
-        out.write('<span style="display:inline" class="__dimensions_badge_embed__" data-doi={0} data-style="small_circle"></span>\n'.format(
+        # out.write('<span style="display:inline" class="__dimensions_badge_embed__" data-doi={0} data-style="small_circle"></span>\n'.format(
+        #     row['DOI']))
+        out.write('<span style="display:inline" class="__dimensions_badge_embed__" data-doi={0} data-style="small_circle" data-hide-zero-citations="true"></span>\n'.format(
             row['DOI']))
         out.write('</span>\n')
 
