@@ -10,7 +10,7 @@ permalink: /CV/
 
 ### Education
 
-2014-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2014-2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD, Microbiology; The University of California, Berkeley  
 2010-2014
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BSc, Microbiology; Minor, Computer Science; The University of Pittsburgh  
