@@ -46,7 +46,7 @@ permalink: /publications/
 
     # Write the body
     Bdb = pd.read_csv(bib)
-    for i, row in Bdb.sort_values('Date published', ascending=False).iterrows():
+    for i, row in Bdb.sort_values('Date', ascending=False).iterrows():
         # make this a paragraph
         #out.write('<p style="border: 1px solid black; width: 100%" >\n')
         #out.write('<p style="overflow: auto">\n')
@@ -86,11 +86,11 @@ def gen_html_citation(row):
     '''
     From a row, generate the citation
     '''
-    authors = row['Authors']
-    authors = ', '.join([_add_dots(x) for x in authors.split(',')])
+    authors = row['Author']
+    authors = ', '.join([_special_fix(x.strip()) for x in authors.split(';')])
     authors = authors.replace('Olm M.R.', '<b>Olm M.R.</b>').replace(',', ', ')
 
-    journal = row['Full journal']
+    journal = row['Publication Title']
     if str(journal) == 'nan':
         journal = row['Journal']
     if str(journal) == 'nan':
@@ -99,24 +99,40 @@ def gen_html_citation(row):
     # The regular format I was using
     cit = "{0} ({2}). <i>{1}</i>. <b>{3}</b>".format(authors,
             row['Title'].replace('{','').replace('}',''),
-            row['Publication year'],
+            row['Publication Year'],
             journal)
 
     # Crazy new format
     pub = "<a href=\"{1}\"> {0}</a>".format(row['Title'].replace('{','').replace('}',''),
-            row['URLs'].split(';')[0])
+            row['Url'].split(';')[0])
 
     #cit = "<i><big>{1}</i> - <b>{3}</b> ({2})</big><br/>{0}".format(
     cit = "<i>{1}</i> - <b>{3}</b> ({2})<br/>{0}".format(
             authors,
             pub,
-            row['Publication year'],
+            row['Publication Year'],
             journal)
     return cit
 
 def _add_dots(x):
     second = '.'.join(x.split()[-1])
-    return ' '.join(x.split()[:-1]) + ' ' + second + '.'
+    first = ' '.join(x.split()[:-1])
+    to_ret = first + ' ' + second + '.'
+    # print(first)
+    # print(second)
+    # print(to_ret)
+    return to_ret
+
+def _special_fix(x):
+    #print(x)
+    to_ret = ''
+    lastname = x.split()[0].replace(',','')
+    to_ret += lastname + ' '
+    for inital in x.split()[1:]:
+        to_ret += inital.strip()[0] + '.'
+    #print(to_ret)
+    return to_ret
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
