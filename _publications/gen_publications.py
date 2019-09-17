@@ -88,6 +88,7 @@ def gen_html_citation(row):
     '''
     authors = row['Author']
     authors = ', '.join([_special_fix(x.strip()) for x in authors.split(';')])
+    authors = authors.replace('Olm M.', '<b>Olm M.</b>').replace(',', ', ')
     authors = authors.replace('Olm M.R.', '<b>Olm M.R.</b>').replace(',', ', ')
 
     journal = row['Publication Title']
