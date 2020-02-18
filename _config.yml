@@ -17,7 +17,9 @@ title: Matthew R. Olm
 email: mattolm@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
     Matt Olm - Postdoctoral researcher in Jill Banfield's lab at UC-Berkeley.
-url: "https://mrolm.github.io/" # the base hostname & protocol for your site
+#url: "https://mrolm.github.io/" # the base hostname & protocol for your site
+url: "http://web.stanford.edu"
+baseurl: "/~mattolm"
 twitter_username: mattagenolmics
 github_username:  mrolm
 
