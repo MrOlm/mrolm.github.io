@@ -10,7 +10,7 @@ permalink: /CV/
 
 ### Education
 2020-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Fellow; Stanford University  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Fellow; Stanford University  
 2014-2019
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD, Microbiology; The University of California, Berkeley  
 2010-2014
@@ -44,7 +44,7 @@ See [publications](/publications) for full list of publications
 ### Select scientific presentations
 
 **Academic**
- <!-- * 2019 (oral presentation) **Keystone Symposia: Microbiome: Therapeutic Implications**; Kerry, Ireland. *Metagenomic Identification of Fecal Microbial Signatures Preceding Acute Intestinal Inflammation in Premature Infants* -->
+ * 2019 (oral presentation) **Keystone Symposia: Microbiome: Therapeutic Implications**; Kerry, Ireland. *Metagenomic Identification of Fecal Microbial Signatures Preceding Acute Intestinal Inflammation in Premature Infants*
  * 2018 (poster) **Stanford Microbiome Symposium 2018**; Stanford, CA. *Metagenomic analysis reveals bacterial replication rates increase two days prior to necrotizing enterocolitis diagnosis*
  * 2018 (poster) **17th International Symposium on Microbial Ecology**; Leipzig, Germany. *De novo assembly of eukaryotic genomes from metagenomes reveals strain-level overlap between infant and hospital fungal microbiomes*
  * 2017 (oral presentation) **MMG Seminar Series at the University of Pittsburgh**; Pittsburgh, PA. *Using genome-resolved metagenomics to study the developing infant microbiome*
