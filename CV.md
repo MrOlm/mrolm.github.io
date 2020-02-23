@@ -10,7 +10,7 @@ permalink: /CV/
 
 ### Education
 2020-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Fellow; Stanford University
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Fellow; Stanford University  
 2014-2019
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD, Microbiology; The University of California, Berkeley  
 2010-2014
@@ -30,7 +30,7 @@ See [publications](/publications) for full list of publications
 
 ### Software
 
-**inStrain** - High-resolution analysis co-occurring genome populations from metagenomes
+**inStrain** - High-resolution analysis of strains from metagenomes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code](https://github.com/MrOlm/inStrain) \| [Publication](https://www.biorxiv.org/content/10.1101/2020.01.22.915579v1)  
 
  **dRep** - Python program for rapid comparison and derepliaction of microbial genomes  
