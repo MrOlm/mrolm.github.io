@@ -5,11 +5,12 @@ permalink: /CV/
 ---
 <p align="center">
   <b><big><big>Matthew R. Olm</big></big></b> <br>
-  mattolm@berkeley.edu
+  mattolm@stanford.edu
 </p>
 
 ### Education
-
+2020-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Fellow; Stanford University
 2014-2019
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD, Microbiology; The University of California, Berkeley  
 2010-2014
@@ -28,6 +29,9 @@ permalink: /CV/
 See [publications](/publications) for full list of publications
 
 ### Software
+
+**inStrain** - High-resolution analysis co-occurring genome populations from metagenomes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code](https://github.com/MrOlm/inStrain) \| [Publication](https://www.biorxiv.org/content/10.1101/2020.01.22.915579v1)  
 
  **dRep** - Python program for rapid comparison and derepliaction of microbial genomes  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code](https://github.com/MrOlm/drep) \| [Publication](https://www.nature.com/articles/ismej2017126)  
