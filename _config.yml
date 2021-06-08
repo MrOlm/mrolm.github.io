@@ -34,6 +34,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# For tracking
+# https://desiredpersona.com/google-analytics-jekyll/
+google_analytics: G-W6V436S2CQ
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
