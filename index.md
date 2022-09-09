@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: About
+nav_order: 1
 ---
 
 <img src="{{site.baseurl}}/images/IMG_2173.jpg" alt="Drawing" style="width: 350px; float: right;margin-right: 10px;margin-top: 10px;margin-left: 10px; margin-bottom: 10px;"/>
