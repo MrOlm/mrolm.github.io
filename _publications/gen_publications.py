@@ -90,6 +90,10 @@ def gen_html_citation(row):
     authors = ', '.join([_special_fix(x.strip()) for x in authors.split(';')])
     if 'Olm M.R.' in authors:
         authors = authors.replace('Olm M.R.', '<b>Olm M.R.</b>').replace(',', ', ')
+    elif 'Olm* M.R.' in authors:
+        authors = authors.replace('Olm* M.R.', '<b>Olm* M.R.</b>').replace(',', ', ')
+    elif 'Olm* M.' in authors:
+        authors = authors.replace('Olm* M.', '<b>Olm* M.</b>').replace(',', ', ')
     else:
         authors = authors.replace('Olm M.', '<b>Olm M.</b>').replace(',', ', ')
 
