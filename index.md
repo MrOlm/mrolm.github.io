@@ -9,4 +9,6 @@ nav_order: 1
 
 <img src="{{site.baseurl}}/images/IMG_2173.jpg" alt="Drawing" style="width: 350px; float: right;margin-right: 10px;margin-top: 10px;margin-left: 10px; margin-bottom: 10px;"/>
 
-I am a postdoctoral researcher in [Justin Sonnenburg's lab](https://sonnenburglab.stanford.edu/) at Stanford University. I received by PhD in [Jill Banfield's lab](http://nanogeoscience.berkeley.edu/) at The University of California, Berkeley in 2019. I study the human microbiome and microbial population genetics, and have developed several open-source programs and bioinformatics tools for analysis of genome-resolved metagenomic data.
+I am a postdoctoral research fellow in [Justin Sonnenburg's lab](https://sonnenburglab.stanford.edu/) at Stanford University, where I conduct detailed, strain-resolved research on the human microbiome. I have developed several open-source programs and bioinformatics tools. I received my PhD in [Jill Banfield's lab](http://nanogeoscience.berkeley.edu/) at The University of California, Berkeley in 2019.
+
+In Fall 2024 I will be starting as an Assistant Professor at the University of Colorado, Boulder's Department of Integrative Physiology.
